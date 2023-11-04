@@ -1,9 +1,32 @@
-# PassGenerator
+# Password Generator
 
-1. Developed a React-based app for secure password generation, utilizing React hooks for enhanced functionality.
+## Project Overview
 
-2. Implemented user-customizable settings for password complexity, offering one-click password generation with automatic clipboard copying.
+This web application is a secure password generator built with React. It offers customizable security settings, an intuitive user interface, and leverages React hooks for enhanced functionality.
 
-3. Designed an intuitive and responsive user interface, optimizing the user experience for password generation.
+## Key Features
 
-4. Demonstrated expertise in React and state management using React hooks, underlining proficiency in web app development.
+- **Secure Password Generation**: Utilizes state-of-the-art technology for creating highly secure and random passwords.
+- **Customizable Complexity**: Offers user-friendly settings to determine password length, character types, and includes one-click password generation.
+- **User-Friendly Interface**: Designed for an intuitive and responsive user experience.
+- **Technology Stack**: Built using React, showcasing proficiency in state management with React hooks.
+
+## Installation
+
+To run the application locally, follow these steps:
+
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Install dependencies using `npm install`.
+4. Run the app with `npm run dev`.
+
+## Technologies Used
+
+- React
+- React Hooks
+- Tailwind CSS
+
+
+## License
+
+Free to Copy and Learn.
